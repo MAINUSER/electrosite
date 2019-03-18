@@ -48,19 +48,19 @@ var config = {
 
   "workstation": "НАШІ ПРОЕКТИ",
   "workstation_list": [{
-      "workstation_title": "Creative Business Cup",
-      "workstation_text": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.",
-      "workstation_icon": "4.jpg",
+      "workstation_title": "Скрутки. Потом следует сварка",
+      "workstation_text": "Скрутки. Потом следует сварка.",
+      "workstation_icon": "2_1.jpg",
     },
     {
-      "workstation_title": "Creative Business Cup",
-      "workstation_text": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.",
-      "workstation_icon": "5.jpg",
+      "workstation_title": "Электромонтаж в кухне",
+      "workstation_text": "Вот так вот под проект кухни мы сделали частичный электромонтаж в кухне за 1 день. Фонд дома 2000 годов,проводка алюминий но сделанная качественно. Заказчику нужно было в кухню заносить мощные электро приборы, плита, духовка, посудомоечная и т.д. Был предложенный вариант завод питание медным кабелем сечением 10 квадрат,установка щита под кухню.",
+      "workstation_icon": "2_2.jpg",
     },
     {
-      "workstation_title": "Creative Business Cup",
-      "workstation_text": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.",
-      "workstation_icon": "6.jpg",
+      "workstation_title": "Монтаж щитка",
+      "workstation_text": "В итоге мы завели 4 линии,сделали 13 новых розеток под проект кухни,занесли свет и на балкон также. Со временем если захочет делать ремонт еще в двух комнатах он сможет електрику тянуть уже к этому щиту что мы поставили (в квартире) а в межэтажном только переподключить. Ремонт проходил в жилой квартире,без пыли и грязи справились.автоматику сильно умную не ставили. Все по стандарту с заменой в будущем на узо/диф.",
+      "workstation_icon": "2_3.jpg",
     },
     {
       "workstation_title": "Creative Business Cup",
@@ -89,10 +89,10 @@ var config = {
     "Адреса": "Level 5, 25 pitt st, US"
   },
   "phone": {
-    "Телефон": ["+555 211 3747"]
+    "Телефон": ["0635481354"]
   },
   "mail": {
-    "Email": "hey@freshdesignweb.com"
+    "Email": "Antonysemmuel@gmail.com"
   },
   "map_link": "https://goo.gl/maps/JdyPLvr4f3p",
 
