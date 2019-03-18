@@ -3,7 +3,7 @@ var config = {
   "logo": "ELECTRIC work",
 
   "menu": {
-    "": "головна",
+    "": "ГОЛОВНА",
     "#about": "ПРО НАС",
     "#services": "НАШІ ПОСЛУГИ",
     "#expertise": "Професійний електромонтаж",
