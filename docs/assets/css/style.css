@@ -375,8 +375,9 @@ section {
   cursor: pointer;
 }
 
-.menu a {
-
+.menu .fas {
+	font-size: 20px;
+  line-height: 68px;
 }
 
 .menu:after {
@@ -399,10 +400,7 @@ section {
   cursor: pointer;
 }
 
-.fas {
-	font-size: 20px;
-  line-height: 68px;
-}
+
 /*Home page*/
 .header {
   background-image: url(../images/1.jpg);
