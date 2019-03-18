@@ -701,7 +701,7 @@ section {
 @media (max-height: 375px) {
   .menu-item {
     max-height: 175px;
-    overflow: scroll;
+		overflow-y: scroll;
   }
 
   .menu-item ul a li {
