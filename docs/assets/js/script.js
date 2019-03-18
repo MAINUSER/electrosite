@@ -18,16 +18,16 @@ $(document).ready(function() {
     var scroll = $(window).scrollTop();
     $('#menu-item').removeClass("show-menu");
     $('#menu-item').addClass("hide-menu");
-    $('.menu span').removeClass("ion-android-close");
-    $('.menu span').addClass("ion-navicon");
+    $('.menu span').removeClass("fa-times");
+    $('.menu span').addClass("fa-bars");
     $('.menu').removeClass("c");
     $('.menu').addClass("m");
     if (scroll >= 569) {
       $(".navbar").addClass("navbar-fixed-top dark-bar");
       $('.menu').addClass('m');
-      $('.menu span').addClass('ion-navicon');
+      $('.menu span').addClass('fa-bars');
       $('.menu').removeClass('c');
-      $('.menu span').removeClass('ion-android-close');
+      $('.menu span').removeClass('fa-times');
     } else {
       $(".navbar").removeClass("navbar-fixed-top dark-bar");
     }
@@ -86,14 +86,14 @@ $(document).ready(function() {
   $(".menu").click(function() {
     $(this).toggleClass('m c');
 
-    $('.menu span').toggleClass('ion-navicon ion-android-close');
+    $('.menu span').toggleClass('fa-bars fa-times');
     $('#menu-item').toggleClass("show-menu hide-menu");
     return false;
   });
 
   $("#menu-item a").click(function() {
     $('.menu').toggleClass('c m');
-    $('.menu span').toggleClass('ion-navicon ion-android-close');
+    $('.menu span').toggleClass('fa-bars fa-times');
     $('#menu-item').toggleClass("show-menu hide-menu");
   });
   //Initiat WOW JS

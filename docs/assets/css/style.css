@@ -1,5 +1,5 @@
 @import 'https://fonts.googleapis.com/css?family=Lora:400,400i,700|Raleway:300,600,700,900';
-@import 'https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css';
+@import 'https://use.fontawesome.com/releases/v5.7.2/css/all.css';
 
 /*Global Settings*/
 body {
@@ -376,7 +376,7 @@ section {
 }
 
 .menu a {
-  line-height: 68px
+
 }
 
 .menu:after {
@@ -399,6 +399,10 @@ section {
   cursor: pointer;
 }
 
+.fas {
+	font-size: 20px;
+  line-height: 68px;
+}
 /*Home page*/
 .header {
   background-image: url(../images/1.jpg);
