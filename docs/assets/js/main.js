@@ -82,7 +82,7 @@ var config = {
   "subscribe": "Залиште Ваш номер телефону і наш менеджер зв'яжеться з Вами",
   "placeholder": "Ваш номер телефону...",
   "submit_btn": "Передзвоніть Мені",
-  "form": "https://getsimpleform.com/messages?form_api_token=df278bf7c3079e4df07bddd825c188a3",
+  "form": "https://getsimpleform.com/messages?form_api_token=58777667cbaddbac31fd1facff75af77",
 
   "contact_title": "Наші контакти",
   "address": {
