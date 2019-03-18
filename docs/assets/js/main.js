@@ -1,6 +1,6 @@
 var config = {
 
-	"logo": "ELECTRIC WORK",
+	"logo": "ELECTRIC work",
 
     "menu": {
 		"": "головна",
@@ -34,7 +34,7 @@ var config = {
 		{
 		"service_title": "МОНТАЖ ЕЛЕКТРОЩИТКА",
 		"service_text": "Електромонтажні роботи найвищої якості",
-		"service_icon": "assets/images/webdevelopment.png",		
+		"service_icon": "assets/images/webdevelopment.png",
 		}
     ],
 
@@ -88,7 +88,7 @@ var config = {
 
 	"contact_title": "Наші контакти",
 	"address": {"Адреса":"Level 5, 25 pitt st, US"},
-	"phone": {"Телефон":"+555 211 3747"},
+	"phone": {"Телефон":["+555 211 3747"]},
 	"mail": {"Email":"hey@freshdesignweb.com"},
 
 };
