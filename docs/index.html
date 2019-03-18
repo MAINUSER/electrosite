@@ -208,7 +208,7 @@
 							<div class="col-sm-4">
 								<div class="ubutia-card wow fadeInLeft animated"  data-wow-delay="200ms">
 									<div class="ubutia-card-header">
-											<span class="fa fa-map-o" aria-hidden="true"></span>
+											<span class="fa fa-map-marker-alt" aria-hidden="true"></span>
 									</div>
 									<div class="ubutia-card-content">
 										<h3><%= _.keys(address) %></h3>
@@ -247,9 +247,9 @@
 							<div class="col-sm-12">
 								<div class="social-icons">
 									<ul>
-										<a href="#"><li><span class="fas fa-map-marker-alt"></span></li></a>
-										<a href="#"><li><span class="fab fa-viber"></span></li></a>
-										<a href="#"><li><span class="far fa-envelope"></span></li></a>
+										<a href="<%= map_link %>"><li><span class="fas fa-map-marker-alt"></span></li></a>
+										<a href="viber://chat?number=<%= phone[ _.keys(phone)][0] %>"><li><span class="fab fa-viber"></span></li></a>
+										<a href="mailto:<%= _.values(mail) %>"><li><span class="far fa-envelope"></span></li></a>
 									</ul>
 								</div>
 							</div>

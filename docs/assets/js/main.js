@@ -94,5 +94,6 @@ var config = {
   "mail": {
     "Email": "hey@freshdesignweb.com"
   },
+	  "map_link": "https://goo.gl/maps/JdyPLvr4f3p",
 
 };
