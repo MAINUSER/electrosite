@@ -1,5 +1,8 @@
 {
  "name": "App",
+ "lang": "uk-UA",
+"start_url": "/",
+"display": "browser",
  "icons": [
   {
    "src": "assets/images/icons/android-icon-36x36.png",
