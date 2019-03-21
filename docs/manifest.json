@@ -2,7 +2,7 @@
  "name": "App",
  "lang": "uk-UA",
 "start_url": "index.html",
-"scope": "/",
+"scope": "https://mainuser.github.io/electrosite/",
 "display": "standalone",
  "icons": [
   {
