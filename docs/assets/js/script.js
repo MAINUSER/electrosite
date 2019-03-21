@@ -36,7 +36,6 @@ $(document).ready(function() {
   // Smooth Scroll
 
   $('a[href*="#"]:not([href="#"])').click(function() {
-    console.log("hash");
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') ||
       location.hostname == this.hostname) {
 
