@@ -2,7 +2,7 @@
  "name": "App",
  "lang": "uk-UA",
 "start_url": "https://mainuser.github.io/electrosite/",
-"display": "browser",
+"display": "standalone",
  "icons": [
   {
    "src": "assets/images/icons/android-icon-36x36.png",
