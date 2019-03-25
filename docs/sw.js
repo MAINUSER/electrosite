@@ -45,7 +45,7 @@ self.addEventListener('fetch', function(event) {
       console.log("\tGetting from the Internet:" + event.request.url);
       return await fetchAndCache(event.request);
     }
-  });
+  }());
 
 });
 
